@@ -9,6 +9,7 @@ System.out.println("one commit");
 		System.out.println("3rd commit");
 
 		System.out.println("4th commit");
+		System.out.println("6th commit");
 
 	}
 
